@@ -1,5 +1,5 @@
 # Bring in deps
-!pip install openai
+pip install openai
 import os 
 from apikey import openai_key
 
